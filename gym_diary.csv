@@ -1,0 +1,96 @@
+date,exercise,exercise_order,set_number,target_reps,weight_kg,weight_type,performed,reps_completed,reps_left,reps_right,difficulty,difficulty_left,difficulty_right,reps_inferred,target_reps_inferred,notes
+2026-10-10,assisted_pull_up,1,1,8,21,assistance,1,NA,NA,NA,1,NA,NA,0,0,Easy
+2026-10-10,assisted_pull_up,1,2,8,14,assistance,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-10,chest_press,2,1,12,20,external_load,1,NA,NA,NA,1,NA,NA,0,0,Easy
+2026-10-10,chest_press,2,2,12,25,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-10,chest_press,2,3,12,30,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-10,row,3,1,12,15,external_load,1,NA,NA,NA,NA,2,2,0,0,Left: moderate; right: moderate
+2026-10-10,row,3,2,12,20,external_load,1,NA,NA,NA,NA,3,3,0,0,Left: hard; right: hard inferred from shorthand
+2026-10-10,biceps_curl,4,1,12,8,external_load,1,NA,3,NA,NA,3,2,1,0,"Left: hard, failed on rep 4; right: moderate, “same number”; right-arm completed reps uncertain, stored as NA."
+2026-10-10,biceps_curl,4,2,12,8,external_load,1,NA,2,NA,NA,3,3,1,0,"Left: hard, failed on rep 3; right: hard, “went up to 4” (completion of rep 4 unclear); right-arm completed reps uncertain, stored as NA."
+2026-10-10,biceps_curl,4,3,12,NA,external_load,0,NA,NA,NA,NA,NA,NA,0,0,"Skipped; 8 kg was planned, not performed."
+2026-10-10,chest_fly,5,1,8,8,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-10,chest_fly,5,2,8,10,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-10,cable_triceps_extension,6,1,12,10,external_load,1,NA,NA,NA,1,NA,NA,0,0,Easy
+2026-10-10,cable_triceps_extension,6,2,12,15,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-10,cable_triceps_extension,6,3,12,15,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-14,assisted_pull_up,1,1,8,14,assistance,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-14,assisted_pull_up,1,2,8,14,assistance,1,NA,NA,NA,NA,NA,NA,0,0,Original “14jg” interpreted as 14 kg
+2026-10-14,row,2,1,12,15,external_load,1,NA,NA,NA,NA,1,1,0,0,Left: easy; right: easy
+2026-10-14,row,2,2,12,20,external_load,1,NA,NA,NA,NA,3,3,0,0,Left: hard; right: hard
+2026-10-14,row,2,3,12,20,external_load,1,NA,NA,NA,NA,3,3,0,0,"Both sides hard, inferred from context"
+2026-10-14,chest_press,3,1,12,25,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-14,chest_press,3,2,12,27.5,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-14,chest_press,3,3,12,30,external_load,1,11,NA,NA,3,NA,NA,1,0,Hard; failed on the last rep
+2026-10-14,cable_triceps_extension,4,1,12,10,external_load,1,NA,NA,NA,1,NA,NA,0,0,Easy; abdominal soreness noted before this exercise.
+2026-10-14,cable_triceps_extension,4,2,12,12.5,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate; abdominal soreness noted before this exercise.
+2026-10-14,cable_triceps_extension,4,3,12,12.5,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate; abdominal soreness noted before this exercise.
+2026-10-14,biceps_curl,5,1,12,4,external_load,1,NA,NA,NA,1,NA,NA,0,0,Easy
+2026-10-14,biceps_curl,5,2,12,6,external_load,1,6,NA,NA,3,NA,NA,0,0,Hard; reached failure
+2026-10-14,biceps_curl,5,3,12,6,external_load,1,4,NA,NA,3,NA,NA,0,0,Hard; reached failure
+2026-10-14,chest_fly,6,1,8,10,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-14,chest_fly,6,2,8,10,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-17,assisted_pull_up,1,1,8,14,assistance,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-17,assisted_pull_up,1,2,8,NA,assistance,1,NA,NA,NA,NA,NA,NA,0,0,"Ambiguous original: 7 (falhei, 14 (4+4)); possible assistance change from 7 to 14 kg. Weight and completed reps left NA."
+2026-10-17,chest_press,2,1,12,25,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-17,chest_press,2,2,12,30,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-17,chest_press,2,3,12,32.5,external_load,1,8,NA,NA,NA,NA,NA,0,0,Reached failure
+2026-10-17,row,3,1,12,15,external_load,1,NA,NA,NA,NA,1,1,0,0,Left: easy; right: easy
+2026-10-17,row,3,2,12,20,external_load,1,NA,NA,NA,NA,2,2,0,0,Left: moderate; right: moderate
+2026-10-17,row,3,3,12,22.5,external_load,1,NA,NA,NA,NA,3,3,0,0,Left: hard; right: hard
+2026-10-17,biceps_curl,4,1,12,6,external_load,1,12,NA,NA,2,NA,NA,0,0,"Moderate; heading specified 2 sets, but 3 were recorded."
+2026-10-17,biceps_curl,4,2,12,6,external_load,1,11,NA,NA,3,NA,NA,0,0,"Hard; heading specified 2 sets, but 3 were recorded."
+2026-10-17,biceps_curl,4,3,12,6,external_load,1,8,NA,NA,3,NA,NA,0,0,"Hard; heading specified 2 sets, but 3 were recorded."
+2026-10-17,chest_fly,5,1,8,10,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-17,chest_fly,5,2,8,10,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-17,cable_triceps_extension,6,1,12,12.5,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-17,cable_triceps_extension,6,2,12,15,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-17,cable_triceps_extension,6,3,12,17.5,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-19,chest_press,1,1,12,30,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-19,chest_press,1,2,12,32.5,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-19,chest_press,1,3,12,35,external_load,1,9,NA,NA,NA,NA,NA,0,0,Reached failure
+2026-10-19,row,2,1,12,20,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-19,row,2,2,12,25,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-19,row,2,3,12,25,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-19,assisted_pull_up,3,1,8,14,assistance,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-19,assisted_pull_up,3,2,8,14,assistance,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-19,cable_triceps_extension,4,1,12,12.5,external_load,1,NA,NA,NA,2,NA,NA,0,1,Moderate
+2026-10-19,cable_triceps_extension,4,2,12,12.5,external_load,1,NA,NA,NA,2,NA,NA,0,1,Moderate
+2026-10-19,cable_triceps_extension,4,3,12,12.5,external_load,1,NA,NA,NA,2,NA,NA,0,1,Moderate
+2026-10-19,biceps_curl,5,1,12,6,external_load,1,12,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-19,biceps_curl,5,2,12,6,external_load,1,11,NA,NA,3,NA,NA,0,0,Hard
+2026-10-19,biceps_curl,5,3,12,6,external_load,1,10,NA,NA,3,NA,NA,0,0,Hard
+2026-10-19,chest_fly,6,1,8,10,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-19,chest_fly,6,2,8,10,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-21,row,1,1,12,20,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-21,row,1,2,12,25,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-21,row,1,3,12,26.5,external_load,1,11,NA,NA,3,NA,NA,0,0,Hard; weight preserved as recorded
+2026-10-21,assisted_pull_up,2,1,8,14,assistance,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-21,assisted_pull_up,2,2,8,7,assistance,1,7,NA,NA,3,NA,NA,0,0,Hard
+2026-10-21,chest_press,3,1,12,30,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-21,chest_press,3,2,12,32.5,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-21,chest_press,3,3,12,30,external_load,1,8,NA,NA,NA,NA,NA,0,0,NA
+2026-10-21,biceps_curl,4,1,12,4,external_load,1,NA,NA,NA,1,NA,NA,0,0,Easy
+2026-10-21,biceps_curl,4,2,12,6,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-21,biceps_curl,4,3,12,6,external_load,1,8,NA,NA,3,NA,NA,0,0,Hard
+2026-10-21,chest_fly,5,1,8,10,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-21,chest_fly,5,2,8,10,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-21,cable_triceps_extension,6,1,12,12.5,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-21,cable_triceps_extension,6,2,12,12.5,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-21,cable_triceps_extension,6,3,12,15,external_load,1,NA,NA,NA,NA,NA,NA,0,0,Poor execution/form inferred from “mas mal”
+2026-10-26,row,1,1,12,20,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,row,1,2,12,22.5,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-26,row,1,3,12,22.5,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,cable_triceps_extension,2,1,12,7.5,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,cable_triceps_extension,2,2,12,10,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,cable_triceps_extension,2,3,12,10,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,biceps_curl,3,1,12,6,external_load,1,NA,NA,NA,2,NA,NA,0,0,Moderate
+2026-10-26,biceps_curl,3,2,12,6,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-26,biceps_curl,3,3,12,6,external_load,1,11,NA,NA,3,NA,NA,0,0,Hard
+2026-10-26,chest_fly,4,1,8,10,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,chest_fly,4,2,8,10,external_load,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,chest_press,5,1,12,30,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-26,chest_press,5,2,12,32.5,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-26,chest_press,5,3,12,32.5,external_load,1,NA,NA,NA,3,NA,NA,0,0,Hard
+2026-10-26,assisted_pull_up,6,1,8,14,assistance,1,NA,NA,NA,NA,NA,NA,0,0,NA
+2026-10-26,assisted_pull_up,6,2,8,14,assistance,1,NA,NA,NA,NA,NA,NA,0,0,NA
